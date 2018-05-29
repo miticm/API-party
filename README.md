@@ -1,3 +1,2 @@
-# API
-* party 
+# API party 
 * more party
