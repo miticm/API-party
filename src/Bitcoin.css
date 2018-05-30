@@ -1,0 +1,22 @@
+.bitcoin img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10%;
+}
+
+.bitcoin button {
+  color: white;
+  margin-top: 10px;
+  width: 80%;
+  padding: 10px;
+  font-size: 24px;
+  border-radius: 5px;
+  border: 1px solid #01638f;
+  margin-bottom: 50px;
+  background-color: #0184be;
+  font-family: "Gentium Book Basic", serif;
+}
+
+.bitcoin .price {
+  font-size: 5rem;
+}
